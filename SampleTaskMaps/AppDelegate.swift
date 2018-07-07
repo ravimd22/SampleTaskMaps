@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  SampleTaskMaps
 //
-//  Created by Basavaraj D on 06/07/2018.
-//  Copyright © 2018 Basavaraj D. All rights reserved.
+//  Created by Ravi on 06/07/2018.
+//  Copyright © 2018 Ravi . All rights reserved.
 //
 
 import UIKit
